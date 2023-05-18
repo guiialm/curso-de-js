@@ -1,0 +1,5 @@
+var agora = new Date()
+var hora = agora.getHours()
+var minuto = agora.getMinutes()
+var dia = agora.getDay()
+console.log(`Agora sones exatamente ${hora} horas e ${minuto} minutos do dia ${dia} `)
