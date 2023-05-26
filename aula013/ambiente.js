@@ -1,9 +1,18 @@
-var c = 1
+for(var c=1;c<=10;c++){
+    console.log(`passo ${c}`)
+}
+
+
+
+
+
+
+/*var c = 1
 do {
     console.log(` Passo ${c}`)
     c++
 } while(c <= 2)
-
+*/
 
 
 
